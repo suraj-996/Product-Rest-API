@@ -17,3 +17,10 @@
 * Login, Logout Module
 * User Module
 * Admin Module
+## Features
+
+* CRUD Operation for user.
+* CRUD Operation for product.
+* CRUD Operation for order.
+* CRUD Operation for cart.
+* CRUD Operation for address.
