@@ -1,6 +1,6 @@
 # REST API for Ecommerce Website.
 
-* We have developed this REST API for an Ecommerce Website. This API performs all the fundamental CRUD operations of any Ecommerce Website. platform with user validation at every step.
+* I have developed this REST API for an Ecommerce Website. This API performs all the fundamental CRUD operations of any Ecommerce Website. platform with user validation at every step.
 
 ## Tech Stack
 
