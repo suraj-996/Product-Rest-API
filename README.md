@@ -22,7 +22,7 @@ A REST-Full Web Services API's for an Online Shopping App based on Spring Boot. 
 1. Login Module
 2. Customer Module
 3. Order Module
-4. Bill Module
+4. Admin Module
 5. Product Module
 6. Cart Module
 
