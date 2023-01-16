@@ -1,5 +1,8 @@
 # REST API for Ecommerce Website.
 
+## Introduction
+A REST-Full Web Services API's for an Online Shopping App based on Spring Boot. All functionalities of an online shopping app such as Login, Signup, Add product, Add to cart, remove from cart and Place order are provide which is fully connected with database.
+
 * I have developed this REST API for an Ecommerce Website. This API performs all the fundamental CRUD operations of any Ecommerce Website. platform with user validation at every step.
 
 ## ER Diagram
@@ -16,10 +19,13 @@
 * Swagger
 
 ## Modules
+1. Login Module
+2. Customer Module
+3. Order Module
+4. Bill Module
+5. Product Module
+6. Cart Module
 
-* Login, Logout Module
-* User Module
-* Admin Module
 ## Features
 
 * CRUD Operation for user.
